@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning VueJS and NextJS **NextJS, VueJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/behruzerkinov](https://github.com/behruzerkinov)
+- 👨‍💻 All of my projects are available at [https://github.com/behruzerkinov](https://github.com/behruzerkinov1)
 
 - 💬 Ask me about educational aspects of front-end teaching methods **front-end, reactjs, open-source, education, teaching, education center**
 
-- 📫 How to reach me **erkinovbehruz0@gmail.com**
+- 📫 How to reach me **b19012003@gmail.com**
 
 - ⚡ Fun fact **I think I might work a bit "slower", but I am a perfectionist, so the final result will never disappoint you!**
 
